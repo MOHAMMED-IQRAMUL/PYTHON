@@ -67,7 +67,7 @@ for i,num in enumerate(list):
     print("num " , num , end = "  -  ")
     print(f"list[{i}] : {list[i]} " , end = "  -  ")
     print("i : " , i)
-
+ 
 # Using start parameter in enumerate
 print()
 for i,num in enumerate(list,start=1):
