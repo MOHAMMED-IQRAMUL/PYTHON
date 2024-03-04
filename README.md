@@ -26,6 +26,12 @@ This repository contains multiple Python files, each covering different aspects 
 
 - **`loops.py`**: Explores while and for loops, including loop control statements like continue and break.
 
+- **`F-Strings.py`**: Introduces formatted strings in Python, allowing for efficient string interpolation and formatting.
+
+- **`Functions.py`**: Demonstrates the use of functions in Python for code modularity and reusability.
+
+- **`Storage_types.py`**: Covers different data storage types in Python, including lists, tuples, dictionaries, and sets.
+
 ## Topics Covered
 
 The repository covers the following Python topics:
@@ -45,10 +51,8 @@ To deepen your understanding of Python programming, consider exploring the follo
 - [Official Python Documentation](https://docs.python.org/): Comprehensive documentation covering Python language features, libraries, and tutorials.
 - [Python.org](https://www.python.org/): Official website offering guides, tutorials, and community resources.
 
-
 ## Contributing
 
 Contributions to this repository are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
 
 ---
