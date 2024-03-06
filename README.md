@@ -1,5 +1,3 @@
----
-
 # Python Programs
 
 Welcome to the Python Programs repository! 
@@ -32,6 +30,26 @@ This repository contains multiple Python files, each covering different aspects 
 
 - **`Storage_types.py`**: Covers different data storage types in Python, including lists, tuples, dictionaries, and sets.
 
+- **`exception-handling.py`**: Illustrates exception handling in Python, including try-except blocks and handling specific exceptions.
+
+- **`filehandling.py`**: Covers file handling operations in Python, including reading from and writing to files.
+
+- **`generators.py`**: Demonstrates the use of generators in Python for lazy evaluation and memory-efficient processing.
+
+- **`imports.py`**: Explains various ways to import modules and packages in Python.
+
+- **`matrix.py`**: Illustrates matrix operations in Python using nested lists.
+
+- **`multiprocessing.py`**: Demonstrates multiprocessing in Python for parallel processing of tasks.
+
+- **`multithreading.py`**: Shows multithreading in Python for concurrent execution of tasks.
+
+- **`oops.py`**: Introduces object-oriented programming concepts in Python, including classes, objects, inheritance, encapsulation, and polymorphism.
+
+- **`polymorpg=hism.py`**: Illustrates polymorphism in Python, allowing objects of different classes to be treated as objects of a common superclass.
+
+- **`regular-expression.py`**: Covers regular expressions in Python for pattern matching and text manipulation.
+
 ## Topics Covered
 
 The repository covers the following Python topics:
@@ -42,7 +60,15 @@ The repository covers the following Python topics:
 - Loops (while and for loops)
 - Input/output operations
 - Control flow mechanisms (continue, break)
-- Practical examples demonstrating concepts in action
+- Exception handling
+- File handling
+- Generators
+- Module imports
+- Matrix operations
+- Multiprocessing and multithreading
+- Object-oriented programming (OOP) concepts
+- Polymorphism
+- Regular expressions
 
 ## Additional Resources
 
