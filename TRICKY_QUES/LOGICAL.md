@@ -75,4 +75,5 @@ The output of these lines are:
 <class 'int'>
 <class 'int'>
 <class 'float'>
+
 ```
